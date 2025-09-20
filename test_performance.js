@@ -22,8 +22,8 @@ export default function main() {
   // data login
   const url = 'https://nutacloud.com/authentication/loginv2';
   const payload = {
-    Username: 'testingAdjie',
-    Password: 'Testing12345',
+    Username: '',
+    Password: '',
   };
 
   // kirim sebagai form-urlencoded
